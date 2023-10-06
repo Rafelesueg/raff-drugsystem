@@ -15,5 +15,5 @@ Config.progressDuration = 5000      --SET PROGRESSBAR DURATION
 Config.removeAmount = 5             --SET HOW MANY ITEM TO REMOVE DURING PROCESS
 Config.addAmount = 3                --SET HOW MANY ITEM TO ADD DURING PROCESS
 
-Config.randomMin = 1                --SET MIN VALUE OF RANDOM ADD ITEM
-Config.randomMax = 10               --SET MAX VALUE OF RANDOM ADD ITEM
+Config.randomMin = 1                --SET MIN VALUE OF RANDOM ADD ITEM DURING COLLECTION
+Config.randomMax = 10               --SET MAX VALUE OF RANDOM ADD ITEM DURING COLLECTION
