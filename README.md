@@ -13,5 +13,7 @@ Select the amount of item to add and remove.
 
 Select MIN and MAX droprate in the collection site.
 
+# Compatable with
+[ox_inventory](https://github.com/overextended/ox_inventory)
 # Dependencies
 [RProgress](https://github.com/Mobius1/rprogress).
