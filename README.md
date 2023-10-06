@@ -1,4 +1,4 @@
-# raff-drugsystem
+# raff-drugsystem  ESX
 Simple and easy custom drug system - FiveM ready
 
 Just fill config.lua based on your own preferences.
